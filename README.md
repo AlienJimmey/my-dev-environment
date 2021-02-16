@@ -10,10 +10,10 @@
 * wsl2
 
 # wsl2 ubuntu
-[ ] git
-[ ] node - nvm
-[ ] workspace mkdir 1/dev
-oh my zsh
+- [ ] git
+- [ ] node - nvm
+- [ ] workspace mkdir 1/dev
+- [ ]oh my zsh
 
 
 dotfiles

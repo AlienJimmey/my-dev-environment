@@ -1,18 +1,21 @@
 # my-dev-environment
 
 # window 10
-* ueil launcher
-* git
-* vscode
-* chrome
-* 7zip
-* terminal
-* wsl2
+
+- [x] git
+- [x] vscode
+- [x] chrome
+- [x] 7zip
+- [x] terminal
+- [x] wsl2
+- [ ] ueil launcher
+- [ ] chocolatey
+- [ ] powertoys
 
 # wsl2 ubuntu
-- [ ] git
-- [ ] node - nvm
-- [ ] workspace mkdir 1/dev
+- [x] git
+- [x] node - nvm
+- [x] workspace mkdir 1/dev
 - [ ] oh my zsh
 
 

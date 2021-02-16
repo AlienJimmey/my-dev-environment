@@ -13,7 +13,7 @@
 - [ ] git
 - [ ] node - nvm
 - [ ] workspace mkdir 1/dev
-- [ ]oh my zsh
+- [ ] oh my zsh
 
 
 dotfiles

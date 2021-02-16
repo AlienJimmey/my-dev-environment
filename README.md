@@ -8,7 +8,8 @@
 - [x] 7zip
 - [x] terminal
 - [x] wsl2
-- [ ] ueil launcher
+- [ ] to do
+- [ ] ueil launcher vs wox
 - [ ] chocolatey
 - [ ] powertoys
 
@@ -22,5 +23,11 @@
 dotfiles
 
 link to gist
+- vscode settings, thems, & plugins
+- zsh profile , zshrc
+- chrome extentions
+- terminal settings & theme, plugins?
+- personal windows 10 settings.
+- prode
 
 how to automate proccess

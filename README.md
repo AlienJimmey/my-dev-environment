@@ -25,7 +25,7 @@ dotfiles
 link to gist
 - vscode settings, thems, & plugins
 - zsh profile , zshrc
-- chrome extentions
+- chrome extentions & settings
 - terminal settings & theme, plugins?
 - personal windows 10 settings.
 - prode

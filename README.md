@@ -8,10 +8,10 @@
 - [x] 7zip
 - [x] terminal
 - [x] wsl2
-- [ ] to do
+- [x] to do
 - [ ] ueil launcher vs wox
 - [ ] chocolatey
-- [ ] powertoys
+- [x] windows powertoys 
 
 # wsl2 ubuntu
 - [x] git

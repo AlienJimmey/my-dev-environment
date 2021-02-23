@@ -16,7 +16,7 @@
 # wsl2 ubuntu
 - [x] git
 - [x] node - nvm
-- [x] workspace mkdir 1/dev
+- [x] workspace mkdir `/dev
 - [ ] oh my zsh
 
 
